@@ -1,4 +1,8 @@
-    font-family: "Noto Sans Thai Looped", sans-serif;
+body{
+    height: 200vh;
+    background-image: url(./Nang_Linchee_Road\,_Bangkok.jpg);
+    background-repeat: no-repeat;
+font-family: "Noto Sans Thai Looped", sans-serif;
 }
 h1{
   text-align: center;
