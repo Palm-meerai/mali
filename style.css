@@ -1,0 +1,348 @@
+body{
+    height: 200vh;
+    background-image: url(./Nang_Linchee_Road\,_Bangkok.jpg);
+    background-repeat: no-repeat;
+    font-family: "Noto Sans Thai Looped", sans-serif;
+}
+h1{
+  text-align: center;
+  color: #ffffff;
+  font-size: 50px;
+  padding: 20px; 
+    border-radius: 50px;
+    background-color: rgba(175, 255, 141, 0.65);
+    height:fit-content;
+}
+header h1{
+    position: absolute;
+    top: -8px;
+    left: 600px;
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    padding: 20px; 
+    border-radius: 50px;
+    background-color: rgba(175, 255, 141, 0.65);
+    height:fit-content;
+}
+.bg {
+    background: url(./bbbgggg.jpg);
+    background-position: center 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ibg{
+    height: 78vh;
+    overflow: hidden;
+    margin: 150px;
+    
+}
+.korkwam{
+    text-align: center;
+    padding-top: 210px;
+    padding-bottom: 100px;
+}
+.bx{
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
+.footer{
+    background-color:  hsl(134, 70%, 75%);
+    color: rgb(0, 0, 0);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 35px;
+    text-align: left;
+    width: 99%;
+    padding: 10px;
+    font-family: "Noto Sans Thai Looped", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    height:fit-content;
+    
+    
+    
+} 
+
+.looptangmod {
+    width: 600px;
+    position: absolute;
+    margin: 100px 280px;
+    padding: 50px;
+    
+}
+.loop1{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 100px;
+    left: 0px;
+    margin: 50px;
+    cursor: pointer;
+    background: url(./IMG_4241.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 100px;
+  }
+  .loop2{
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        top: 100px;
+        left: 500px;
+        margin: 50px;
+        cursor: pointer;
+        background: url(./IMG_4248.jpg);
+        background-size: cover;
+        background-position: center;
+        border-radius: 100px;
+      }
+      .loop3{
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        top: 100px;
+        left: 1000px;
+        margin: 50px;
+        cursor: pointer;
+        background: url(./IMG_4240.jpg);
+        background-size: cover;
+        background-position:center;
+        border-radius: 100px;
+      }
+      .loop4{
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        top: 500px;
+        left: 0px;
+        margin: 50px;
+        cursor: pointer;
+        background: url(./IMG_4219.jpg);
+        background-size: cover;
+        background-position: center;
+        border-radius: 100px;
+      }
+      .loop5{
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        top: 500px;
+        left: 500px;
+        margin: 50px;
+        cursor: pointer;
+        background: url(./IMG_4216.jpg);
+        background-size: cover;
+        background-position:right;
+        border-radius: 100px;
+      }
+      .loop6{  
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        top: 500px;
+        left: 1000px;
+        margin: 50px;
+        cursor: pointer;
+        background: url(./IMG_4211.jpg);
+        background-size: cover;
+        background-position: center;
+        border-radius: 100px;
+      }
+      .loop7{
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        top: 900px;
+        left: 0px;
+        margin: 50px;
+        cursor: pointer;
+        background: url(./IMG_4214.jpg);
+        background-size: cover;
+        background-position: center;
+        border-radius: 100px;
+      }
+      .loop8{
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        top: 900px;
+        left: 500px;
+        margin: 50px;
+        cursor: pointer;
+        background: url(./IMG_4231.jpg);
+        background-size: cover;
+        background-position: center;
+        border-radius: 100px;
+      }
+      .loop9{
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        top: 900px;
+        left: 1000px;
+        margin: 50px;
+        cursor: pointer;
+        background: url(./IMG_4236.jpg);
+        background-size:17cap;
+        background-position: center;
+        border-radius: 100px;
+      }
+      
+    .krob{
+      width: 750px;
+      height: 300px;
+      margin: 0 475px;
+      margin-top: -400px;
+      border: 5px solid #59f84e;
+      padding: 125px;
+      border-radius: 45px;
+      position: relative;
+      left: 0px;
+    }
+    .hhh h4{
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+    
+    }
+    h3{
+    color: #ffffff;
+    font-size: 30px;
+    text-align: left;
+    padding: 5px; 
+    border-radius: 100px;
+    background-color: rgba(83, 247, 12, 0.805);
+    width: fit-content;
+    cursor: pointer;
+    }
+    .pichead {
+      width: 500px;
+      height: 300px;
+      position: absolute;
+      left: 240px;
+      top: -76px;
+  }
+
+.picbox1{
+  width: 300px;
+  height: 480px;
+  position: relative;
+  border-radius: 50px;
+  top: 131px;
+  left: 1150px;
+  object-fit: cover;
+  overflow: hidden;
+  
+}
+  .picbox3{
+    width: 400px;
+    height: 450px;
+    position: relative;
+    border-radius: 50px;
+    top: 131px;
+    left: 1070px;
+    object-fit: cover;
+    overflow: hidden;
+  }
+  .picbox4{
+    width: 400px;
+    height: 450px;
+    position: relative;
+    border-radius: 50px;
+    top: 116px;
+    left: 1070px;
+    object-fit: cover;
+    overflow: hidden;
+  }
+  .picbox5{
+    width: 400px;
+    height: 450px;
+    position: relative;
+    border-radius: 50px;
+    top: 116px;
+    left: 1070px;
+    object-fit: cover;
+    overflow: hidden;
+  }
+  .picbox6{
+    width: 700px;
+    height: 450px;
+    position: relative;
+    border-radius: 50px;
+    top: 116px;
+    left: 1070px;
+    object-fit: cover;
+    overflow: hidden;
+  }
+  .krob6{
+    width: 1200px;
+    height: 300px;
+    margin: 0 370px;
+    margin-top: -420px;
+    margin-left: 240;
+    border: 5px solid #59f84e;
+    padding: 125px 100px;
+    border-radius: 45px;
+    position: relative;
+    left: 0px;
+  }
+  .picbox7{
+    width: 400px;
+    height: 450px;
+    position: relative;
+    border-radius: 50px;
+    top: 116px;
+    left: 1070px;
+    object-fit: cover;
+    overflow: hidden;
+  }
+  .picbox8{
+    width: 800px;
+    height: 450px;
+    position: relative;
+    border-radius: 50px;
+    top: 90px;
+    left: 950px;
+    object-fit: cover;
+    overflow: hidden;
+  }
+  .picbox9{
+    width: 285px;
+    height: 500px;
+    position: relative;
+    border-radius: 50px;
+    top: 115px;
+    left: 1060px;
+    overflow: hidden;
+  }
+  .krob8{
+    width: 1200px;
+    height: 300px;
+    margin: 0 370px;
+    margin-top: -420px;
+    margin-left: 240;
+    border: 5px solid #59f84e;
+    padding: 125px 100px;
+    border-radius: 45px;
+    position: relative;
+    left: 0px;
+  }
+  .krob9{
+    width: 800px;
+    height: 300px;
+    margin: 0 370px;
+    margin-top: -420px;
+    margin-left: 240;
+    border: 5px solid #59f84e;
+    padding: 125px 100px;
+    border-radius: 45px;
+    position: relative;
+    left: 0px;
+  }
